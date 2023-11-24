@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "../src/images/explore/e1.jpg",
+    "place": "Tommy Hilfiger Bar",
+    "ratings": 4.5,
+    "ratingsCount": "10 ratings",
+    "price": "5$-300$",
+    "placeHouse": "Restaurant",
+    "client": "../src/images/clients/c1.png",
+    "placeDescription": "A dimly lit, cozy bar offering an inviting ambiance, skillfully crafted cocktails, friendly patrons, and the perfect setting for relaxation and conversation.",
+    "condition": 0
+  },
+  {
+    "id": 2,
+    "image": "../src/images/explore/e2.jpg",
+    "place": "Swim And Dine Resort",
+    "ratings": 4.8,
+    "ratingsCount": "8 ratings",
+    "price": "50$-500$",
+    "placeHouse": "Hotel",
+    "client": "../src/images/clients/c2.png",
+    "placeDescription": "A luxurious beachfront resort offering pristine beaches, lavish accommodations, gourmet dining, and a tranquil escape from everyday life.",
+    "condition": 1
+  },
+  {
+    "id": 3,
+    "image": "../src/images/explore/e3.jpg",
+    "place": "Europe Tour",
+    "ratings": 4.2,
+    "ratingsCount": "15 ratings",
+    "price": "5k$-10k$",
+    "placeHouse": "Destination",
+    "client": "../src/images/clients/c3.png",
+    "placeDescription": "Embark on a captivating Europe tour filled with historic landmarks, diverse cultures, culinary delights, and breathtaking landscapes. Unforgettable adventures await.",
+    "condition": 1
+  },
+  {
+    "id": 4,
+    "image": "../src/images/explore/e4.jpg",
+    "place": "Banglow With Swimming Pool",
+    "ratings": 4.5,
+    "ratingsCount": "10 ratings",
+    "price": "15k$-15k$",
+    "placeHouse": "Real Estate",
+    "client": "../src/images/clients/c4.png",
+    "placeDescription": "A serene oasis of clear, shimmering water, the swimming pool invites relaxation and play under the warm sun's embrace.",
+    "condition": 1
+  },
+  {
+    "id": 5,
+    "image": "../src/images/explore/e5.jpg",
+    "place": "Vintage Car Expo",
+    "ratings": 4.2,
+    "ratingsCount": "8 ratings",
+    "price": "500$-1200$",
+    "placeHouse": "Automation",
+    "client": "../src/images/clients/c2.png",
+    "placeDescription": "A beautifully restored vintage car, a timeless masterpiece of automotive craftsmanship, evoking nostalgia and admiration with its classic charm.",
+    "condition": 0
+  },
+  {
+    "id": 6,
+    "image": "../src/images/explore/e6.jpg",
+    "place": "Thailand Tour",
+    "ratings": 4.4,
+    "ratingsCount": "15 ratings",
+    "price": "5k$-10k$",
+    "placeHouse": "Destination",
+    "client": "../src/images/clients/c3.png",
+    "placeDescription": "Experience the enchanting beauty of Thailand's tropical landscapes, rich cultural heritage, and vibrant street markets on an unforgettable tour.",
+    "condition": 1
+  }
+]
